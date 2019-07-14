@@ -1,0 +1,7 @@
+.authentication_form {
+    display: inline-block;
+    padding: 48px;
+    margin-top: 80px;
+    border-radius: 2px;
+    border: 1px solid rgba(0, 0, 0, 0.09);
+}
